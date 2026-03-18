@@ -4,9 +4,9 @@ This project analyzes a chemical process monitoring dataset using a Jupyter Note
 
 ## Project Files
 - **dataset.joblib**: Raw dataset saved for efficient loading and analysis.
-- **Notebook.ipynb**: Jupyter Notebook containing all data processing, exploration, and modeling steps.
-- **Notebook.html**: HTML export of the notebook for viewing in a browser.
-- **Notebook.pdf**: PDF report version of the notebook for sharing or printing.
+- **notebook.ipynb**: Jupyter Notebook containing all data processing, exploration, and modeling steps.
+- **notebook.html**: HTML export of the notebook for viewing in a browser.
+- **notebook.pdf**: PDF report version of the notebook for sharing or printing.
 - **Model Files (`model_base_*.joblib`)**: Trained models.
 
 ## Requirements
