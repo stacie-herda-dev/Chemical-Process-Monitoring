@@ -1,4 +1,4 @@
-# Kaggle Submission
+# Chemical Process Monitoring (Kaggle Submission)
 ## Overview
 This project analyzes a chemical process monitoring dataset using a Jupyter Notebook. The main objective is to explore the data, engineer features, and build a machine learning model to predict efficiency loss in reactor operations. 
 
